@@ -45,7 +45,6 @@ I have successfully completed many projects in different international organizat
 <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" height="20" alt="github" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" height="20" alt="PHP" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" height="20" alt="MySQL" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" height="20" alt="git" /></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" height="20" alt="vscode" /></a>
 
 📊 **&nbsp;this week i spent my time on:**
@@ -65,6 +64,6 @@ AWS Lambda    ███████████████████▓░░
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href=""><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/danishashraf047"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 #### To reach me: just send an email, a message on discord or telegram, all links are above
