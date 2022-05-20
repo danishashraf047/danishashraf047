@@ -2,8 +2,9 @@
 
 [![Github](https://img.shields.io/static/v1?label=&message=Github&color=black&style=for-the-badge&logo=github)](https://www.github.com/danishashraf047)
 [![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&color=0E7FBF&&&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danishashraf047/)
-[![Gmail](https://img.shields.io/static/v1?label=&labelColor=EA0008&message=Danish%20Ashraf&color=555555&style=for-the-badge&logo=gmail&logoColor=white)](mailto:danishashraf047@gmail.com)
+[![Gmail](https://img.shields.io/static/v1?label=&labelColor=EA0008&message=Gmail&color=555555&style=for-the-badge&logo=gmail&logoColor=white)](mailto:danishashraf047@gmail.com)
 [![Upwork](https://img.shields.io/static/v1?label=&labelColor=6fda44&message=Upwork&color=555555&style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01e9d4675bf2a10e37)
+<br>
 [![Fiverr](https://img.shields.io/static/v1?label=&labelColor=00b22d&message=Fiverr&color=555555&style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/danishashraf047)
 [![Facebook](https://img.shields.io/static/v1?label=&labelColor=4267B2&message=Facebook&color=4267B2&style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/DanishAshraf047/)
 [![WhatsApp](https://img.shields.io/static/v1?label=&labelColor=63b946&message=WhatsApp&color=63b946&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+923132118331)
