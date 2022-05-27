@@ -67,7 +67,7 @@ I have successfully completed many projects in different international organizat
 </br>
 <a href="https://www.couchbase.com/" target="_blank" rel="noreferrer"><img src="https://toppng.com/download/QodG38GN9oRGRLMgbv1njgo3uU0cC7lh339vqxEUyGwrCH7HtBkxenrrZ6EBCSROEtltOntgm1c9sQyErxtQyzr7XJjBbj7VmHmDC8wdEHwFx2XfXkFnO6ArJxpdE4xmaDtGelOa2JWp7mAOYt3JV7BXiu6woslqYJyvSV9liIBhgddyaV9py7tSNNzocEkf9EtY7HTN/large" width="48" height="48" alt="Couchbase" /></a>
 &nbsp;&nbsp;
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://www.pngitem.com/pimgs/b/385-3850359_mongodb-png.png" height="48" alt="MongoDB" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://www.kindpng.com/picc/b/385-3850420_mongodb-png.png" height="48" alt="MongoDB" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="48" height="48" alt="Firebase" /></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width="42" height="42" alt="vscode" /></a>
 
