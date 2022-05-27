@@ -4,7 +4,6 @@
 [![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&color=0E7FBF&&&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danishashraf047/)
 [![Gmail](https://img.shields.io/static/v1?label=&labelColor=EA0008&message=Gmail&color=555555&style=for-the-badge&logo=gmail&logoColor=white)](mailto:danishashraf047@gmail.com)
 [![Upwork](https://img.shields.io/static/v1?label=&labelColor=6fda44&message=Upwork&color=555555&style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01e9d4675bf2a10e37)
-<br>
 [![Fiverr](https://img.shields.io/static/v1?label=&labelColor=00b22d&message=Fiverr&color=555555&style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/danishashraf047)
 [![Facebook](https://img.shields.io/static/v1?label=&labelColor=4267B2&message=Facebook&color=4267B2&style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/DanishAshraf047/)
 [![WhatsApp](https://img.shields.io/static/v1?label=&labelColor=63b946&message=WhatsApp&color=63b946&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+923132118331)
@@ -52,7 +51,6 @@ I have successfully completed many projects in different international organizat
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="45" height="45" alt="C#" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="45" height="45" alt="Express" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="45" height="45" alt="NodeJS" /></a>
-</br>
 <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer"><img src="https://www.pinclipart.com/picdir/big/570-5704154_reflection-clip-art.png" width="50" height="50" alt="Electron" /></a>
 <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" width="50" height="50" alt="Angular" /></a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://www.pngkey.com/png/full/156-1566256_sinon-png.png" width="40" height="40" alt="Vue" /></a>
@@ -64,7 +62,6 @@ I have successfully completed many projects in different international organizat
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="45" height="45" alt="PHP" /></a>
 <a href="https://wordpress.org/" target="_blank" rel="noreferrer"><img src="https://www.pngall.com/wp-content/uploads/2016/05/WordPress-Logo-PNG-HD.png" width="50" height="50" alt="WordPress" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="45" height="45" alt="MySQL" /></a>
-</br>
 <a href="https://www.couchbase.com/" target="_blank" rel="noreferrer"><img src="https://toppng.com/download/QodG38GN9oRGRLMgbv1njgo3uU0cC7lh339vqxEUyGwrCH7HtBkxenrrZ6EBCSROEtltOntgm1c9sQyErxtQyzr7XJjBbj7VmHmDC8wdEHwFx2XfXkFnO6ArJxpdE4xmaDtGelOa2JWp7mAOYt3JV7BXiu6woslqYJyvSV9liIBhgddyaV9py7tSNNzocEkf9EtY7HTN/large" width="48" height="48" alt="Couchbase" /></a>
 &nbsp;&nbsp;
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://www.kindpng.com/picc/b/385-3850420_mongodb-png.png" height="48" alt="MongoDB" /></a>
