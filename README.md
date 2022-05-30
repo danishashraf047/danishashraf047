@@ -71,8 +71,8 @@ I have successfully completed many projects in different international organizat
 📊 **&nbsp;this week i spent my time on:**
 
 ```text
-NativeScript  ██████████████████████▓░░   90.94 %
-AWS Lambda    ███████████████████▓░░░░░   78.27 %
+NativeScript    █████████████████████▓░░░   90.94 %
+AWS Services    ███████████████████▓░░░░░   81.27 %
 ```
 
 ### :muscle: &nbsp;Things I'm currently challenging myself with
