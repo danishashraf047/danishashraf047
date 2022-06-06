@@ -1,7 +1,8 @@
-# Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Danish
+# Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> I'm Danish
 
 [![Github](https://img.shields.io/static/v1?label=&message=Github&color=black&style=for-the-badge&logo=github)](https://www.github.com/danishashraf047)
 [![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&color=0E7FBF&&&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danishashraf047/)
+[![YouTube](https://img.shields.io/static/v1?label=&message=YouTube&color=FF0000&&&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UChN-FCMK8LW18SVnS3Ogt-g)
 [![Gmail](https://img.shields.io/static/v1?label=&labelColor=EA0008&message=Gmail&color=555555&style=for-the-badge&logo=gmail&logoColor=white)](mailto:danishashraf047@gmail.com)
 [![Upwork](https://img.shields.io/static/v1?label=&labelColor=6fda44&message=Upwork&color=555555&style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01e9d4675bf2a10e37)
 [![Fiverr](https://img.shields.io/static/v1?label=&labelColor=00b22d&message=Fiverr&color=555555&style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/danishashraf047)
@@ -33,7 +34,7 @@ I have successfully completed many projects in different international organizat
 
 </br>
 
-<img align="right" alt="GIF" src="https://github.com/danishashraf047/danishashraf047/blob/main/assets/code.gif" width="500" height="320" />
+<img src="https://github.com/danishashraf047/danishashraf047/blob/main/assets/code.gif" width="500" height="320" />
 
 - 💼 &nbsp; any freelance work? do reach, [email](mailto:danishashraf047@gmail.com) :)
 - 💬 &nbsp; ask me about anything, i am happy to help;
@@ -87,4 +88,4 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/danishashraf047"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
-#### To reach me: just send an email, a message on discord or telegram, all links are above
+#### To reach me: just send an email, a message on WhatsApp or Facebook, all links are above
