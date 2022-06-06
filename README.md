@@ -68,12 +68,13 @@ I have successfully completed many projects in different international organizat
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://www.kindpng.com/picc/b/385-3850420_mongodb-png.png" height="48" alt="MongoDB" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="48" height="48" alt="Firebase" /></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width="42" height="42" alt="vscode" /></a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png" width="65" height="48" alt="AWS" /></a>
 
 📊 **&nbsp;this week i spent my time on:**
 
 ```text
 NativeScript    █████████████████████▓░░░   90.94 %
-AWS Services    ███████████████████▓░░░░░   81.27 %
+AWS             ███████████████████▓░░░░░   81.27 %
 ```
 
 ### :muscle: &nbsp;Things I'm currently challenging myself with
