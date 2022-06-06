@@ -74,7 +74,7 @@ I have successfully completed many projects in different international organizat
 
 ```text
 NativeScript    █████████████████████▓░░░   90.94 %
-AWS             ███████████████████▓░░░░░   81.27 %
+AWS             ███████████████████▓░░░░░   83.27 %
 ```
 
 ### :muscle: &nbsp;Things I'm currently challenging myself with
